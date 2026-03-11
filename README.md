@@ -95,7 +95,7 @@ Types:
 A **resistor divider** senses the output voltage.
 
 [
-V_{out} = V_{ref} \left(1 + \frac{R_1}{R_2}\right)
+V_out = V_ref *(1 + R_1/R_2)
 ]
 
 ---
